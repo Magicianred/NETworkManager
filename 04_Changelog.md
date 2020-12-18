@@ -22,7 +22,7 @@ Note: _If you've installed the preview, uninstall it first!_
 ⚠️ **SYSTEM REQUIREMENTS** ⚠️
 - Windows 10 / Server (1809 or later)
 - [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
-- [Microsoft Edge (Chromium)](https://www.microsoft.com/de-de/edge)
+- [Microsoft Edge | WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
 ## What's new?
 - Ping Monitor
@@ -55,7 +55,7 @@ Note: _If you've installed the preview, uninstall it first!_
 ⚠️ **SYSTEM REQUIREMENTS** ⚠️
 - Windows 10 / Server (1809 or later)
 - [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
-- [Microsoft Edge (Chromium)](https://www.microsoft.com/de-de/edge)
+- [Microsoft Edge | WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
 
 ## What's new? 
 - Migrated to .NET Desktop 5.0
