@@ -9,4 +9,4 @@ permalink: /Application/IPScanner
 
 # IP Scanner
 
-![IPScanner](IPScanner.png)
+![IPScanner](04_IPScanner.png)

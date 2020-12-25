@@ -11,12 +11,12 @@ permalink: /Application/SubnetCalculator
 
 ## Calculator
 
-![SubnetCalculator_Calculator](SubnetCalculator_Calculator.png)
+![SubnetCalculator_Calculator](18_SubnetCalculator_Calculator.png)
 
 ## Subnetting
 
-![SubnetCalculator_Subnetting](SubnetCalculator_Subnetting.png)
+![SubnetCalculator_Subnetting](18_SubnetCalculator_Subnetting.png)
 
 ## Wide Subnet
 
-![SubnetCalculator_WideSubnet](SubnetCalculator_WideSubnet.png)
+![SubnetCalculator_WideSubnet](18_SubnetCalculator_WideSubnet.png)

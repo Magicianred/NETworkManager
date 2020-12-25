@@ -10,4 +10,4 @@ permalink: /Application/PowerShell
 
 # PowerShell
 
-![PowerShell](PowerShell.png)
+![PowerShell](10_PowerShell.png)

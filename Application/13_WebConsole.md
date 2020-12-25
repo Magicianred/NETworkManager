@@ -9,4 +9,4 @@ permalink: /Application/WebConsole
 
 # Web Console
 
-![WebConsole](WebConsole.png)
+![WebConsole](13_WebConsole.png)

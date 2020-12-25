@@ -9,4 +9,4 @@ permalink: /Application/Traceroute
 
 # Traceroute
 
-![Traceroute](Traceroute.png)
+![Traceroute](07_Traceroute.png)

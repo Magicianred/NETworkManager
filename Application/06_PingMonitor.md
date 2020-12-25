@@ -9,4 +9,4 @@ permalink: /Application/PingMonitor
 
 # Ping Monitor
 
-![PingMonitor](PingMonitor.png)
+![PingMonitor](06_PingMonitor.png)

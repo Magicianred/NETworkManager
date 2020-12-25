@@ -13,11 +13,11 @@ The **Network Interface** tool detects all network adapters of the computer with
 
 ## Information
 
-![NetworkInterface_Information](NetworkInterface_Information.png)
+![NetworkInterface_Information](02_NetworkInterface_Information.png)
 
 ## Bandwidth
-![NetworkInterface_Bandwidth](NetworkInterface_Bandwidth.png)
+![NetworkInterface_Bandwidth](02_NetworkInterface_Bandwidth.png)
 
 ## Configure
 
-![NetworkInterface_Configure](NetworkInterface_Configure.png)
+![NetworkInterface_Configure](02_NetworkInterface_Configure.png)

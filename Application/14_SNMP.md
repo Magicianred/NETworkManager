@@ -9,7 +9,7 @@ permalink: /Application/SNMP
 
 # SNMP
 
-![SNMP](SNMP.png)
+![SNMP](14_SNMP.png)
 
 ## v2c
 

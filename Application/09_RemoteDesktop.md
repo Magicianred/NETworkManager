@@ -10,4 +10,4 @@ permalink: /Application/RemoteDesktop
 
 # Remote Desktop
 
-![RemoteDesktop](RemoteDesktop.png)
+![RemoteDesktop](09_RemoteDesktop.png)

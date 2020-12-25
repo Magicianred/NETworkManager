@@ -9,4 +9,4 @@ permalink: /Application/Whois
 
 # Whois
 
-![Whois](Whois.png)
+![Whois](17_Whois.png)

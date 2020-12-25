@@ -10,7 +10,7 @@ permalink: /Application/Dashboard
 # Dashboard
 Description...
 
-![Dashboard](Dashboard.png)
+![Dashboard](01_Dashboard.png)
 
 ## Settings
 

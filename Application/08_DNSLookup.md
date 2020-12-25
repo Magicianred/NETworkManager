@@ -9,4 +9,4 @@ permalink: /Application/DNSLookup
 
 # DNS Lookup
 
-![DNSLookup](DNSLookup.png)
+![DNSLookup](08_DNSLookup.png)

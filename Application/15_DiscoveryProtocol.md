@@ -10,4 +10,4 @@ permalink: /Application/DiscoveryProtocol
 
 # Discovery Protocol
 
-![DiscoveryProtocol](DiscoveryProtocol.png)
+![DiscoveryProtocol](15_DiscoveryProtocol.png)

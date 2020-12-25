@@ -9,4 +9,4 @@ permalink: /Application/Connections
 
 # Connections
 
-![Connections](Connections.png)
+![Connections](20_Connections.png)

@@ -9,4 +9,4 @@ permalink: /Application/WakeOnLAN
 
 # Wake on LAN
 
-![WakeOnLAN](WakeOnLAN.png)
+![WakeOnLAN](16_WakeOnLAN.png)
