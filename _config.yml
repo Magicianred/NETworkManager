@@ -1,7 +1,17 @@
 title: "NETworkManager"
 description: "A powerful tool for managing networks and troubleshoot network problems!"
 remote_theme: "pmarsceill/just-the-docs"
-color_scheme: "light"
+color_scheme: "custom"
 search_enabled: true
+aux_links:
+  "View NETworkManager on GitHub":
+    - "//github.com/BornToBeRoot/NETworkManager"
+aux_links_new_tab: true
+heading_anchors: true
+footer_content: "Developed and maintained by <a href=\"https://github.com/BornToBeRoot\">BornToBeRoot</a> with the help of the <a href=\"https://github.com/BornToBeRoot/NETworkManager/blob/master/Contributors.md\">Community</a>"
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/BornToBeRoot/NETworkManager"
+gh_edit_branch: "gh-pages" 
 plugins:
   - jemoji
