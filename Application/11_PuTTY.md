@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Remote Desktop
+title: PuTTY
 parent: Application
 nav_order: 11
 description: ""
