@@ -30,7 +30,7 @@ Date: **28.12.2020**
 - Add version to title bar [#402](http://github.com/BornToBeRoot/NETworkManager/issues/402){:target="_blank"} 
 - Improve title if tab is dragged out (version and application name added) [#414](http://github.com/BornToBeRoot/NETworkManager/issues/414){:target="_blank"} 
 - Settings\Language
-  - Sort languages by [Official|Community] and Name [#403](http://github.com/BornToBeRoot/NETworkManager/issues/403){:target="_blank"} 
+  - Sort languages by Official, Community and Name [#403](http://github.com/BornToBeRoot/NETworkManager/issues/403){:target="_blank"} 
 
 ## Bugfixes
 - IP Scanner
