@@ -6,6 +6,47 @@ description: ""
 permalink: /Changelog
 ---
 
+# Version 2020.12.2
+Date: **28.12.2020**
+
+| File | Checksum [SHA256] |
+|---|---|
+|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.2/NETworkManager_2020.12.2_Setup.exe){:target="_blank"}| `4F0EA9AB5969021901AA107A40B0F1C649AB2A39FFC55565DDEF318D983021F9` | 
+|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.2/NETworkManager_2020.12.2_Portable.zip){:target="_blank"}| `7A26775C906586822AE3585CDD2FC3AD361D359D38AC591012E4CB9F82EEA8BA` | 
+|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.2/NETworkManager_2020.12.2_Archiv.zip){:target="_blank"}| `6094B2C27A279C004049D0AD083C8A23A57864FBD61616DECD2B75A9C3ABDD95` | 
+
+**System requirements**
+- Windows 10 / Server (1809 or later)
+- [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [Microsoft Edge - WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
+
+## What's new?
+- UI reworked / tab size reduced [#398](http://github.com/BornToBeRoot/NETworkManager/issues/398){:target="_blank"} 
+
+## Improvements
+- WiFi
+  - y-axis is now displayed correct (reversed -100 to 0 dBm) [#366](http://github.com/BornToBeRoot/NETworkManager/issues/366){:target="_blank"} 
+  - Space between channel 64 and 100 added (they won't overlap anymore) [#366](http://github.com/BornToBeRoot/NETworkManager/issues/366){:target="_blank"} 
+- Add version to title bar [#402](http://github.com/BornToBeRoot/NETworkManager/issues/402){:target="_blank"} 
+- Improve title if tab is dragged out (version and application name added) [#414](http://github.com/BornToBeRoot/NETworkManager/issues/414){:target="_blank"} 
+- Settings\Language
+  - Sort languages by [Official|Community] and Name [#403](http://github.com/BornToBeRoot/NETworkManager/issues/403){:target="_blank"} 
+
+## Bugfixes
+- IP Scanner
+  - JSON export fixed it MAC address is null [#392](http://github.com/BornToBeRoot/NETworkManager/issues/392){:target="_blank"} 
+- WebConsole
+  - Fix dependency (require Edge WebView2 runtime instead if Edge Chromium)  / prevent app crash [#404](http://github.com/BornToBeRoot/NETworkManager/issues/404){:target="_blank"} 
+- Context menu icons color fixed [#391](http://github.com/BornToBeRoot/NETworkManager/issues/391){:target="_blank"} 
+- Build script fixed if spaces in path [#384](http://github.com/BornToBeRoot/NETworkManager/issues/384){:target="_blank"} 
+- ToolTip background fixed for LvlCharts [#414](http://github.com/BornToBeRoot/NETworkManager/issues/414){:target="_blank"} 
+- Settings
+  - Link color/size in About and Language fixed [#391](http://github.com/BornToBeRoot/NETworkManager/issues/391){:target="_blank"} 
+  - Groups are now translated [#279](http://github.com/BornToBeRoot/NETworkManager/issues/279){:target="_blank"} 
+
+## Other
+- Language files updated
+
 # Version 2020.12.1
 Date: **14.12.2020**
 
@@ -15,11 +56,7 @@ Date: **14.12.2020**
 |[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Portable.zip){:target="_blank"}| `19D04BA6BBFB323F11889115489A299FE534C49AEA533030DF0F5B47AE7A722E` | 
 |[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Archiv.zip){:target="_blank"}| `0F7BF030E4C4ADA8B54DF06C52CA5F19A1E3CA854E67A8E667277544A8882509` | 
 
-The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
-
-Note: _If you've installed the preview, uninstall it first!_
-
-⚠️ **SYSTEM REQUIREMENTS** ⚠️
+**System requirements**
 - Windows 10 / Server (1809 or later)
 - [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Microsoft Edge - WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
@@ -48,11 +85,9 @@ Date: **06.12.2020**
 |[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Portable.zip){:target="_blank"}| `191F5A1C7E7DC59EE4B7CB17546564F69339D2963B7EC782FBE48F35C4B10C00` | 
 |[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Archiv.zip){:target="_blank"}| `0038524849EAD33A3BAA8B493A424B0416D360E54DB52E931557219C30AAE955` | 
 
-The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
-
 Note: _If you've installed the preview, uninstall it first!_
 
-⚠️ **SYSTEM REQUIREMENTS** ⚠️
+**System requirements**
 - Windows 10 / Server (1809 or later)
 - [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Microsoft Edge - WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
@@ -96,12 +131,12 @@ Date: **05.09.2020**
 |[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Portable.zip)| `E8B60E677E65959BB11F05884F6EA9EC99F09F24ECE869A240B8361F958B4A66` |
 |[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Archiv.zip)| `86D13E4C139132BCBA86B6F72ADA4D679C4DD303EA08643D276AE1A5DFD47C47` |
 
-⚠️  **SYSTEM REQUIREMENTS** ⚠️ 
+**System requirements**
 - Windows 10 x64
 - [.NET 5.0 / Desktop Runtime 5.0.0-preview.8](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download)
 
-⚠️  **KOWN ISSUES** ⚠️ 
+**Kown issues**
 - Application crash on fullscreen [#325](http://github.com/BornToBeRoot/NETworkManager/issues/325)
 - [More...](https://github.com/BornToBeRoot/NETworkManager/issues?q=label%3A.NET5.0-feedback+)
 

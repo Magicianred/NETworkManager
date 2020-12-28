@@ -19,15 +19,7 @@ Date: **28.12.2020**
 
 The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
 
-Note: _If you've installed the preview, uninstall it first!_
-
-⚠️ **SYSTEM REQUIREMENTS** ⚠️
+**System requirements**
 - Windows 10 / Server (1809 or later)
 - [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Microsoft Edge - WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-
----
-
-**Looking for older versions?**
-- [Last release for .NET 4.7.2](https://borntoberoot.net/NETworkManager/Changelog#version-202051)
-- [Last release for Windows 7](https://borntoberoot.net/NETworkManager/Archiv/Changelog-v1#version-11100)
