@@ -2,7 +2,7 @@
 layout: default
 title: Features
 nav_order: 2
-description: ""
+description: "List of all features in the NETworkManager"
 permalink: /Features
 ---
 
