@@ -8,7 +8,7 @@ permalink: /Features
 
 # Features
 
-- Dashboard 
+- [Dashboard](Application/Dashboard)
 - Network Interface - Information, Bandwidth, Configure
 - WLAN - Networks, Channels
 - IP Scanner
