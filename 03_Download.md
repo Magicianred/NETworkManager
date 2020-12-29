@@ -17,7 +17,10 @@ Date: **28.12.2020**
 |[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.2/NETworkManager_2020.12.2_Portable.zip){:target="_blank"}| `7A26775C906586822AE3585CDD2FC3AD361D359D38AC591012E4CB9F82EEA8BA` | 
 |[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.2/NETworkManager_2020.12.2_Archiv.zip){:target="_blank"}| `6094B2C27A279C004049D0AD083C8A23A57864FBD61616DECD2B75A9C3ABDD95` | 
 
-The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
+The setup is also available on [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"} and can be installed with:
+```
+~# choco install networkmanager
+```
 
 **System requirements**
 - Windows 10 / Server (1809 or later)
