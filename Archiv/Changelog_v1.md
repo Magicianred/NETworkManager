@@ -3,7 +3,7 @@ layout: default
 title: Changelog - Version 1.x
 parent: Archiv
 nav_order: 1
-description: ""
+description: "Changelog and download links of all 1.x versions"
 permalink: /Archiv/Changelog-v1
 ---
 

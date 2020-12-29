@@ -2,7 +2,7 @@
 layout: default
 title: Download
 nav_order: 3
-description: ""
+description: "Download of the latest available version"
 permalink: /Download
 ---
 

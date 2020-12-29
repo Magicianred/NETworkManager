@@ -2,7 +2,7 @@
 layout: default
 title: License
 nav_order: 7
-description: ""
+description: "License under which the program is published"
 permalink: /License
 ---
 

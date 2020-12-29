@@ -2,7 +2,7 @@
 layout: default
 title: Languages
 nav_order: 5
-description: ""
+description: "List of all available languages within the program"
 permalink: /Languages
 ---
 

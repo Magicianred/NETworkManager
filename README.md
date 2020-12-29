@@ -17,35 +17,43 @@ There are some more features such as a subnet calculator, a Whois lookup or a da
 <img alt="NETworkManager" src="NETworkManager_Preview.gif" />
 
 <div align="center">   
-  <p>   
+   <p>   
     <a href="https://github.com/BornToBeroot/NETworkManager/releases" target="_blank">
-      <img alt="All releases" src="https://img.shields.io/github/downloads/BornToBeroot/NETworkManager/total.svg?style=flat-square" />
-    </a>
+      <img alt="All releases" src="https://img.shields.io/github/downloads/BornToBeroot/NETworkManager/total.svg?style=for-the-badge" />
+    </a>    
+    <a href="https://github.com/BornToBeroot/NETworkManager/releases" target="_blank">
+      <img alt="Latest release" src="https://img.shields.io/github/downloads/BornToBeroot/NETworkManager/latest/total.svg?style=for-the-badge" />
+    </a>    
     <a href="https://github.com/BornToBeroot/NETworkManager/stargazers" target="_blank">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/BornToBeroot/NETworkManager.svg?style=flat-square" />
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/BornToBeroot/NETworkManager.svg?style=for-the-badge" />
     </a>    
     <a href="https://github.com/BornToBeroot/NETworkManager/network" target="_blank">       
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/BornToBeroot/NETworkManager.svg?style=flat-square" />
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/BornToBeroot/NETworkManager.svg?style=for-the-badge" />
     </a>     
+  </p> 
+  <p> 
     <a href="https://ci.appveyor.com/project/BornToBeRoot/NETworkManager/branch/master">
-      <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/BornToBeRoot/NETworkManager/master.svg?style=flat-square&&label=master" />
+      <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/BornToBeRoot/NETworkManager/master.svg?style=for-the-badge&logo=appveyor&&label=master" />
     </a>   
+    <a href="https://github.com/BornToBeRoot/NETworkManager/blob/master/LICENSE">
+      <img alt="AppVeyor" src="https://img.shields.io/github/license/BornToBeroot/NETworkManager.svg?style=for-the-badge" />
+    </a>     
   </p> 
   <p> 
     <a href="https://transifex.com/BornToBeRoot/NETworkManager/">
-      <img alt="Transifex" src="https://img.shields.io/badge/transifex-translate-green.svg?style=flat-square" />
+      <img alt="Transifex" src="https://img.shields.io/badge/transifex-translate-green.svg?style=for-the-badge" />
     </a>   
     <a href="https://github.com/BornToBeRoot/NETworkManager/issues/new?labels=Feature-Request&template=Feature_request.md">
-      <img alt="Transifex" src="https://img.shields.io/badge/github-feature_request-green.svg?style=flat-square" />
-    </a>   
+      <img alt="Feature request" src="https://img.shields.io/badge/github-feature_request-green.svg?style=for-the-badge&logo=github" />
+    </a>       
     <a href="https://github.com/BornToBeRoot/NETworkManager/issues/new?labels=Issue&template=Bug_report.md">
-      <img alt="Transifex" src="https://img.shields.io/badge/github-bug_report-red.svg?style=flat-square" />
+      <img alt="Bug report" src="https://img.shields.io/badge/github-bug_report-red.svg?style=for-the-badge&logo=github" />
     </a>     
-  </p>   
+  </p>       
   <p>
     <a href='https://github.com/BornToBeRoot/NETworkManager'><button type="button" name="button" class="btn">Github :octocat:</button></a>
     <a href='https://borntoberoot.net/NETworkManager/Download'><button type="button" name="button" class="btn">Download :package:</button></a>
   </p>
 </div>
 
-
+If you want to contribute to the code/documentation/translation or compile the solution yourself, see the [README](https://github.com/BornToBeRoot/NETworkManager/) on GitHub for more information.
