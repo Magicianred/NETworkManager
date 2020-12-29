@@ -56,4 +56,4 @@ There are some more features such as a subnet calculator, a Whois lookup or a da
   </p>
 </div>
 
-If you want to contribute to the code/documentation/translation or compile the solution yourself, see the [README](https://github.com/BornToBeRoot/NETworkManager/) on GitHub for more information.
+If you want to contribute to the code/documentation/translation or compile the solution yourself, see the [README](https://github.com/BornToBeRoot/NETworkManager/){:target="_blank"} on GitHub for more information.
