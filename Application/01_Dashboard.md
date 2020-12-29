@@ -9,7 +9,7 @@ permalink: /Application/Dashboard
 
 # Dashboard
 The dashboard checks automatically and at every status change of the local network adapters (network cable plugged in, WLAN connected, etc.) if there is a connection to the Internet. 
-First it checks if the local tcp/ip stack is available. Then the local IP address of the computer is determined based on the local routing. For this the IP from the [Public ICMP test IP address](#PublicICMPtestIPaddress) setting is used. If you have multiple connections to the Internet (e.g. Ethernet and WLAN) the one with the highest metric is used.
+First it checks if the local tcp/ip stack is available. Then the local IP address of the computer is determined based on the local routing. For this the IP from the [Public ICMP test IP address](#public-icmp-test-ip-address) setting is used. If you have multiple connections to the Internet (e.g. Ethernet and WLAN) the one with the highest metric is used.
 
 ![Dashboard](01_Dashboard.png)
 
