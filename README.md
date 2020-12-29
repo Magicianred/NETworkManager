@@ -32,26 +32,26 @@ There are some more features such as a subnet calculator, a Whois lookup or a da
     </a>     
   </p> 
   <p> 
-    <a href="https://ci.appveyor.com/project/BornToBeRoot/NETworkManager/branch/master">
+    <a href="https://ci.appveyor.com/project/BornToBeRoot/NETworkManager/branch/master" target="_blank">
       <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/BornToBeRoot/NETworkManager/master.svg?style=for-the-badge&logo=appveyor&&label=master" />
     </a>   
-    <a href="https://github.com/BornToBeRoot/NETworkManager/blob/master/LICENSE">
+    <a href="https://github.com/BornToBeRoot/NETworkManager/blob/master/LICENSE" target="_blank">
       <img alt="AppVeyor" src="https://img.shields.io/github/license/BornToBeroot/NETworkManager.svg?style=for-the-badge" />
     </a>     
   </p> 
   <p> 
-    <a href="https://transifex.com/BornToBeRoot/NETworkManager/">
+    <a href="https://transifex.com/BornToBeRoot/NETworkManager/" target="_blank">
       <img alt="Transifex" src="https://img.shields.io/badge/transifex-translate-green.svg?style=for-the-badge" />
     </a>   
-    <a href="https://github.com/BornToBeRoot/NETworkManager/issues/new?labels=Feature-Request&template=Feature_request.md">
+    <a href="https://github.com/BornToBeRoot/NETworkManager/issues/new?labels=Feature-Request&template=Feature_request.md" target="_blank">
       <img alt="Feature request" src="https://img.shields.io/badge/github-feature_request-green.svg?style=for-the-badge&logo=github" />
     </a>       
-    <a href="https://github.com/BornToBeRoot/NETworkManager/issues/new?labels=Issue&template=Bug_report.md">
+    <a href="https://github.com/BornToBeRoot/NETworkManager/issues/new?labels=Issue&template=Bug_report.md" target="_blank">
       <img alt="Bug report" src="https://img.shields.io/badge/github-bug_report-red.svg?style=for-the-badge&logo=github" />
     </a>     
   </p>       
   <p>
-    <a href='https://github.com/BornToBeRoot/NETworkManager'><button type="button" name="button" class="btn">Github :octocat:</button></a>
+    <a href='https://github.com/BornToBeRoot/NETworkManager' target="_blank"><button type="button" name="button" class="btn">Github :octocat:</button></a>
     <a href='/Download'><button type="button" name="button" class="btn">Download :package:</button></a>
   </p>
 </div>
